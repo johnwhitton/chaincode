@@ -24,6 +24,7 @@ required for Security Tokens](https://verifiedtokenframework.com/assets/Verified
 * Tokenization
   * https://github.com/BlockchainTokenAssociation/VerifiedToken-PoC
   * https://github.com/OpenSTFoundation/openst-contracts
+  * https://github.com/harborhq/r-token
 
 
 * Trading
